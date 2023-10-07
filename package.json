@@ -58,7 +58,7 @@
     "mongodb": "^5.6.0",
     "netlify-plugin-cypress": "~2.2.1",
     "nodemailer": "^6.9.3",
-    "postcss": "^8.4.4",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.8",
     "tailwindcss": "^3.0.0"
   },
