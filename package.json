@@ -44,7 +44,7 @@
     "react-loading-skeleton": "^3.3.1",
     "remark-gfm": "^3.0.1",
     "server-only": "^0.0.1",
-    "sharp": "^0.32.4",
+    "sharp": "^0.32.6",
     "stripe": "^12.17.0",
     "swr": "^2.1.5"
   },
